@@ -1,0 +1,11 @@
+  =>  Template Name    : DevFolio - Developer Portfolio Template
+
+  =>  Template Link    : https://7soft.Pavan.com/developer-portfolio-template
+
+  =>  Template License : https://7soft.Pavan.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : https://7soft.Pavan.com
+
+  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://7soft.Pavan.com/about-us )
